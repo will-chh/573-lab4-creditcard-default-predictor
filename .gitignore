@@ -209,3 +209,4 @@ __marimo__/
 
 #data file
 data_file/
+data/*.csv
